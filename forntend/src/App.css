@@ -1,0 +1,12 @@
+.tab {
+  padding: 0% 10%;
+}
+.form_parent_div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  max-width: 6000px;
+}
